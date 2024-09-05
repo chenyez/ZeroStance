@@ -1,0 +1,7 @@
+model_select:RoBERTa
+bert_lr:1e-5
+fc_lr:1e-5
+batch_size:64
+total_epochs:4
+max_tok_len:250
+dropout:0.
